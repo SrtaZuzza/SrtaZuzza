@@ -1,7 +1,7 @@
-# 👋 Welcome, I'm glad you're here :grin:
-![CharaCuter](https://user-images.githubusercontent.com/65691298/183760408-5edb180d-f9dc-4399-b70e-db9863a91f4e.png)
 <div align="center">
-Try <a href="https://tenacittea.itch.io/characuter" target="_blank">CharaCuter</a>, a cute character creator!
+<h1>👋 Welcome, I'm glad you're here! 😁</h1>
+<a href="https://tenacittea.itch.io/characuter" target="_blank"><img src="https://user-images.githubusercontent.com/65691298/183760408-5edb180d-f9dc-4399-b70e-db9863a91f4e.png"/></a>
+Try <a href="https://tenacittea.itch.io/characuter" target="_blank">CharaCuter</a>, a cute and free character creator made by me using Godot Engine!
 </div>
 
 <!--
