@@ -13,7 +13,7 @@
   
   <h2>💬 Connect with me</h2>
 
-  ![](https://dcbadge.vercel.app/api/shield/569172009435529228?style=flat)
+  [![Badge](https://dcbadge.vercel.app/api/shield/569172009435529228?style=flat)](https://discord.com/users/569172009435529228)
   [![Badge](https://foj05lt87l2c.runkit.sh)](https://www.linkedin.com/in/monica-v-cardoso/)
   [![Badge](https://trkjvsaw6o22.runkit.sh)](https://api.whatsapp.com/send?phone=2130199584)  
   
