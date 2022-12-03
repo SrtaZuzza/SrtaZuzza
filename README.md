@@ -1,18 +1,35 @@
+[![MasterHead](CharaCuter.png "Two cute little girls around a sign that says Characuter")](https://github.com/SrtaZuzza)
 <div align="center">
-  <a href="https://tenacittea.itch.io/characuter" target="_blank">
-    <img src="https://user-images.githubusercontent.com/65691298/183760408-5edb180d-f9dc-4399-b70e-db9863a91f4e.png"/>
-  </a>
   <p>
-    <i>Try <a href="https://tenacittea.itch.io/characuter" target="_blank">CharaCuter</a>, a cute and free character creator made by me using Godot Engine!</i>
-  </p>
+    <i>Try <a href="https://tenacittea.itch.io/characuter">CharaCuter</a>, a cute and free character creator made by me using Godot Engine!</i>
+  </p>    
+  
+
   <h2>👋 Welcome, I'm glad you're here! 😁</h2>
   <p>
-    I'm <b>Monica (she/they)</b> a neurodiverse indie game developer and pixel artist who has developed (besides games) a passion towards testing. I am interested in development, quality assurance, quality of life, accessibility and inclusion of minorities. I work on tools that help game developers in my spare time, the vast majority were created using <a href="https://github.com/godotengine" target="_blank">Godot Engine</a>!
-  </p>
-  <h2>Technology Stack</h2>
+    I'm <b>Monica (she/they)</b> a neurodiverse indie game dev and pixel artist who has developed (besides games) a passion towards testing. I am interested in development, quality assurance, quality of life, accessibility and inclusion of minorities. I work on tools that help game developers in my spare time, some of them were created using <a href="https://github.com/godotengine">Godot Engine</a>!
+  </p>  
+  
+  
+  <h2>💬 Connect with me</h2>
+
+  [![Badge](https://foj05lt87l2c.runkit.sh)](https://www.linkedin.com/in/monica-v-cardoso/)
+  [![Badge](https://trkjvsaw6o22.runkit.sh)](https://api.whatsapp.com/send?phone=2130199584)  
+  
+  
+  <h2>🤖 Technology stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,git,github,gherkin,godot,idea,java,js,md,maven,regex,ruby,selenium,vscode&perline=14" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,gherkin,godot,html,idea,java,js,md,maven,regex,ruby,selenium,vscode&perline=16"/>
+  </a>  
+    
+  
+  <h2>📊 My stats</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtazuzza&layout=compact&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img  height="137px" align="center" src="https://github-readme-stats.vercel.app/api/?username=srtazuzza&hide=issues,contribs&layout=compact&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&show_icons=true" />
+</a>
 </div>
 
 <!--
