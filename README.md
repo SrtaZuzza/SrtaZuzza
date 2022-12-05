@@ -13,7 +13,7 @@
   
   <h2>💬 Connect with me</h2>
 
-  ![](https://dcbadge.vercel.app/api/shield/569172009435529228?style=flat)
+  [![Badge](https://dcbadge.vercel.app/api/shield/569172009435529228?style=flat)](https://discord.com/users/569172009435529228)
   [![Badge](https://foj05lt87l2c.runkit.sh)](https://www.linkedin.com/in/monica-v-cardoso/)
   [![Badge](https://trkjvsaw6o22.runkit.sh)](https://api.whatsapp.com/send?phone=2130199584)  
   
@@ -29,7 +29,7 @@
   <img  height="137px" align="center" src="https://github-readme-stats.vercel.app/api/?username=srtazuzza&hide=contribs&layout=compact&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtazuzza&layout=compact&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&show_icons=true" />
+  <img  height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtazuzza&layout=compact&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&show_icons=true&langs_count=6" />
 </a>
 </div>
 
