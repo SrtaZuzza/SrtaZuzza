@@ -18,9 +18,15 @@
   [![Badge](https://trkjvsaw6o22.runkit.sh)](https://api.whatsapp.com/send?phone=2130199584)  
   
   
-  <h2>🤖 Technology stack</h2>
+  <h2>🤖 Technology & tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,gherkin,godot,html,idea,java,js,md,maven,regex,ruby,selenium,vscode&perline=16"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,godot,html,md,vscode&perline=20"/>
+  </a>  
+    
+  
+  <h2>👩‍💻 I'm learning</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gherkin,idea,java,js,maven,regex,ruby,selenium&perline=20"/>
   </a>  
     
   
