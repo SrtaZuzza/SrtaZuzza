@@ -1,4 +1,4 @@
-[![MasterHead](CharaCuter.png "Two cute little girls around a sign that says Characuter")](https://github.com/SrtaZuzza)
+[![MasterHead](/img/CharaCuter.png "Two cute little girls around a sign that says Characuter")](https://github.com/SrtaZuzza)
 <div align="center">
   <p>
     <i>Try <a href="https://tenacittea.itch.io/characuter">CharaCuter</a>, a cute and free character creator made by me using Godot Engine!</i>
@@ -26,7 +26,7 @@
   
   <h2>👩‍💻 I'm learning</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gherkin,idea,java,js,maven,regex,ruby,selenium&perline=20"/>
+    <img src="https://skillicons.dev/icons?i=gherkin,idea,java,js,kotlin,maven,py,regex,ruby,selenium&perline=20"/>
   </a>  
     
   
