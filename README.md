@@ -37,6 +37,23 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  height="137px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=srtazuzza&layout=compact&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&show_icons=true&langs_count=6" />
 </a>
+
+
+<h2>👌 My Quality Assurance Projects</h2>
+
+<a href="https://github.com/srtazuzza/materiais-apoio-proj-restful-booker">
+  <img  height="137px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=srtazuzza&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&repo=materiais-apoio-proj-restful-booker" />
+</a>
+<a href="https://github.com/srtazuzza/api-automation-tests-challenge-rest-assured">
+  <img  height="137px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=srtazuzza&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&repo=api-automation-tests-challenge-rest-assured" />
+</a>
+<a href="https://github.com/srtazuzza/testes_selenium_webdriver_java">
+  <img  height="137px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=srtazuzza&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&repo=testes_selenium_webdriver_java" />
+</a>
+<!-- <a href="https://github.com/srtazuzza/testes_selenium_webdriver_java">
+  <img  height="137px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=srtazuzza&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&repo=testes_selenium_webdriver_java" />
+</a> -->
+
 </div>
 
 <!--
