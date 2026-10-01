@@ -1,6 +1,6 @@
 # Saudações 👋
 
-<table border="0" width="100%">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 Boas vindas à minha página de Jogos Independentes. Aqui eu quero mostrar um pouco do meu hobby com a Godot Engine, o motor principal onde me dedico à criação de universos digitais e mecânicas interativas.
@@ -15,15 +15,15 @@ Boas vindas à minha página de Jogos Independentes. Aqui eu quero mostrar um po
 - 😄 Curiosidade: Sou atriz profissional, administradora e desenvolvedora
 </td>
 
-<td width="25%" valign="top" align="center" style="border: none;">
-<a href="https://tenacittea.itch.io/selfish-wish">
+<td width="20%" valign="center" align="center" style="border: none;">
+<a href="https://tenacittea.itch.io/characuter">
   <img src="img/characuter.png" width="100%" alt="Crie um personagem grátis no CharaCuter" />
 </a>
 
 *Crie um personagem grátis no CharaCuter*
 </td>
-<td width="25%" valign="top" align="center" style="border: none;">
-<a href="https://tenacittea.itch.io/characuter">
+<td width="20%" valign="center" align="center" style="border: none;">
+<a href="https://tenacittea.itch.io/selfish-wish">
   <img src="img/selfish_wish.png" width="100%" alt="Conheça meu jogo piloto - Selfish Wish" />
 </a>
 
@@ -32,5 +32,4 @@ Boas vindas à minha página de Jogos Independentes. Aqui eu quero mostrar um po
 </tr>
 </table>
 
----
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=gimp,ubuntu,blender,godot,vscode)](https://github.com/thuongtruong109/icoziv)
